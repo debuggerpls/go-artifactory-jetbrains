@@ -1,0 +1,1 @@
+./jetbrains-clients-downloader-linux-x86_64-1867/bin/jetbrains-clients-downloader --verbose --json-logging --build-filter 241.17890.39 --platforms-filter linux-x64 jetbrains-download/ --download-backends
